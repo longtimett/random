@@ -11,14 +11,14 @@
             "email": "3197236560@qq.com",
             "homepage": "https://github.com/longtimett"
         }
-    ]
+    ],
     "require": {
         "php": "^7.0"
     },
 
     "autoload": {
         "psr-4": {"longtimett\\random\\": "src/"}
-    },
+    }
 
 
 }
