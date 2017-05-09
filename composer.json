@@ -1,0 +1,24 @@
+{
+    "name": "longtimett/random",
+    "description": "",
+    "type": "library",
+    "keywords": [],
+    "homepage": "https://github.com/longtimett/random",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "longtimett",
+            "email": "3197236560@qq.com",
+            "homepage": "https://github.com/longtimett"
+        }
+    ]
+    "require": {
+        "php": "^7.0"
+    },
+
+    "autoload": {
+        "psr-4": {"longtimett\\random\\": "src/"}
+    },
+
+
+}
